@@ -1,0 +1,16 @@
+{
+
+ 
+
+  "SCbit_小车类.RGB_Car_Big|block": "小车RGB探照灯|红色 %value1|绿色 %value2|蓝色 %value3",
+  "SCbit_小车类.RGB_Car_Big2|block": "小车RGB探照灯|选择车灯颜色 %value",
+  "SCbit_小车类.Ultrasonic_Car|block": "超声波返回（cm）",
+  "SCbit_小车类.RGB_Car_Program|block": "七彩流水灯",
+  "SCbit_小车类.Music_Car|block": "小车音乐播放|%index",
+  "SCbit_小车类.Line_Sensor|block": "巡线传感器|位置 %direct|检测到 %value",
+  "SCbit_小车类.Avoid_Sensor|block": "避障传感器|检测到 %value",
+  "SCbit_小车类.Servo_Car|block": "小车舵机|编号 %num|角度 %value",
+  "SCbit_小车类.CarCtrl|block": "小车控制|%index",
+  "SCbit_小车类.CarCtrlSpeed|block": "小车控制|%index|速度 %speed",
+  "SCbit_小车类.CarCtrlSpeed2|block": "小车控制|%index|左电机速度 %speed1|右电机速度 %speed2"
+}
